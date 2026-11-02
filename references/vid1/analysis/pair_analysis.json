@@ -1,0 +1,175 @@
+{
+  "original": {
+    "file": "vid1_original.mp4",
+    "duration_sec": 510.945,
+    "size_mb": 46.234142,
+    "width": 464,
+    "height": 832,
+    "fps": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "nb_streams": 2,
+    "has_subtitle_stream": false,
+    "pix_fmt": "yuv420p",
+    "bit_rate": 723900
+  },
+  "edited": {
+    "file": "vid1_edited.mp4",
+    "duration_sec": 103.966667,
+    "size_mb": 9.401701,
+    "width": 576,
+    "height": 1024,
+    "fps": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "nb_streams": 2,
+    "has_subtitle_stream": false,
+    "pix_fmt": "yuv420p",
+    "bit_rate": 723439
+  },
+  "duration_ratio": 0.20347917486226502,
+  "edited_scene_cuts": [
+    71.8667
+  ],
+  "original_scene_cuts_sample": [],
+  "silence_edited": {
+    "speech_ratio": 0.927710843373494,
+    "median_rms": 0.06327129900455475,
+    "long_silences_ge_0_5s": 4,
+    "longest_silence_sec": 0.5,
+    "silence_runs": [
+      {
+        "start": 20.5,
+        "end": 21.0,
+        "dur": 0.5
+      },
+      {
+        "start": 45.5,
+        "end": 46.0,
+        "dur": 0.5
+      },
+      {
+        "start": 94.5,
+        "end": 95.0,
+        "dur": 0.5
+      },
+      {
+        "start": 102.0,
+        "end": 102.5,
+        "dur": 0.5
+      }
+    ]
+  },
+  "silence_original": {
+    "speech_ratio": 0.7019089574155654,
+    "median_rms": 0.028292639181017876,
+    "long_silences_ge_0_5s": 98,
+    "longest_silence_sec": 6.75,
+    "silence_runs": [
+      {
+        "start": 0.0,
+        "end": 5.75,
+        "dur": 5.75
+      },
+      {
+        "start": 6.5,
+        "end": 10.75,
+        "dur": 4.25
+      },
+      {
+        "start": 13.75,
+        "end": 17.75,
+        "dur": 4.0
+      },
+      {
+        "start": 20.5,
+        "end": 22.75,
+        "dur": 2.25
+      },
+      {
+        "start": 25.25,
+        "end": 25.75,
+        "dur": 0.5
+      },
+      {
+        "start": 28.25,
+        "end": 29.0,
+        "dur": 0.75
+      },
+      {
+        "start": 30.0,
+        "end": 32.5,
+        "dur": 2.5
+      },
+      {
+        "start": 35.5,
+        "end": 37.0,
+        "dur": 1.5
+      },
+      {
+        "start": 40.25,
+        "end": 42.75,
+        "dur": 2.5
+      },
+      {
+        "start": 43.75,
+        "end": 44.75,
+        "dur": 1.0
+      },
+      {
+        "start": 46.0,
+        "end": 47.0,
+        "dur": 1.0
+      },
+      {
+        "start": 48.0,
+        "end": 50.0,
+        "dur": 2.0
+      },
+      {
+        "start": 50.75,
+        "end": 51.5,
+        "dur": 0.75
+      },
+      {
+        "start": 53.0,
+        "end": 53.5,
+        "dur": 0.5
+      },
+      {
+        "start": 54.75,
+        "end": 55.75,
+        "dur": 1.0
+      },
+      {
+        "start": 56.75,
+        "end": 57.75,
+        "dur": 1.0
+      },
+      {
+        "start": 58.75,
+        "end": 61.25,
+        "dur": 2.5
+      },
+      {
+        "start": 61.5,
+        "end": 62.75,
+        "dur": 1.25
+      },
+      {
+        "start": 63.5,
+        "end": 64.75,
+        "dur": 1.25
+      },
+      {
+        "start": 66.25,
+        "end": 66.75,
+        "dur": 0.5
+      }
+    ]
+  },
+  "frame_counts": {
+    "original": 128,
+    "edited": 69
+  }
+}

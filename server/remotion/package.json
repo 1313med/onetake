@@ -1,0 +1,24 @@
+{
+  "name": "onetake-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "node render.js",
+    "prove": "node prove.js"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.278",
+    "@remotion/cli": "4.0.278",
+    "@remotion/media-utils": "4.0.278",
+    "@remotion/renderer": "4.0.278",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.278"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "typescript": "^5.6.3"
+  }
+}

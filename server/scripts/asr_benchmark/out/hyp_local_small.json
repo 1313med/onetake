@@ -1,0 +1,222 @@
+{
+  "language": "ar",
+  "language_probability": 0.9522514939308167,
+  "duration": 30.0,
+  "segments": [
+    {
+      "start": 5.68,
+      "end": 6.98,
+      "text": "إهي لا 안녕",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 10.34,
+      "end": 11.56,
+      "text": "Chelsea doesn't mind",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 11.56,
+      "end": 13.48,
+      "text": "He doesn't worry about crimes",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 17.32,
+      "end": 18.46,
+      "text": "Chelsea doesn't mind",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 18.46,
+      "end": 19.36,
+      "text": "He doesn't mind",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 22.3,
+      "end": 24.48,
+      "text": "Chelsea doesn't mind",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 24.48,
+      "end": 25.66,
+      "text": "Chelsea doesn't mind",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    },
+    {
+      "start": 25.66,
+      "end": 27.52,
+      "text": "Chelsea doesn't mind",
+      "avg_logprob": -2.2017119985360365,
+      "no_speech_prob": 0.10098335891962051
+    }
+  ],
+  "words": [
+    {
+      "start": 5.68,
+      "end": 6.26,
+      "word": " إهي",
+      "probability": 0.10594748519361019
+    },
+    {
+      "start": 6.26,
+      "end": 6.4,
+      "word": " لا",
+      "probability": 0.11153542250394821
+    },
+    {
+      "start": 6.4,
+      "end": 6.98,
+      "word": " 안녕",
+      "probability": 2.1298932551871985e-05
+    },
+    {
+      "start": 10.34,
+      "end": 10.9,
+      "word": " Chelsea",
+      "probability": 2.2430313038057648e-06
+    },
+    {
+      "start": 10.9,
+      "end": 11.56,
+      "word": " doesn't",
+      "probability": 0.4957469549844973
+    },
+    {
+      "start": 11.56,
+      "end": 11.56,
+      "word": " mind",
+      "probability": 0.017459115013480186
+    },
+    {
+      "start": 11.56,
+      "end": 12.04,
+      "word": " He",
+      "probability": 0.004525279626250267
+    },
+    {
+      "start": 12.04,
+      "end": 12.18,
+      "word": " doesn't",
+      "probability": 0.8578546345233917
+    },
+    {
+      "start": 12.18,
+      "end": 12.5,
+      "word": " worry",
+      "probability": 0.000645827385596931
+    },
+    {
+      "start": 12.5,
+      "end": 12.5,
+      "word": " about",
+      "probability": 0.6993276476860046
+    },
+    {
+      "start": 12.5,
+      "end": 13.48,
+      "word": " crimes",
+      "probability": 0.0004519103094935417
+    },
+    {
+      "start": 17.32,
+      "end": 17.8,
+      "word": " Chelsea",
+      "probability": 0.2566256523132324
+    },
+    {
+      "start": 17.8,
+      "end": 18.08,
+      "word": " doesn't",
+      "probability": 0.9766944050788879
+    },
+    {
+      "start": 18.08,
+      "end": 18.46,
+      "word": " mind",
+      "probability": 0.8454616665840149
+    },
+    {
+      "start": 18.46,
+      "end": 18.86,
+      "word": " He",
+      "probability": 0.5167753100395203
+    },
+    {
+      "start": 18.86,
+      "end": 18.98,
+      "word": " doesn't",
+      "probability": 0.9876686930656433
+    },
+    {
+      "start": 18.98,
+      "end": 19.36,
+      "word": " mind",
+      "probability": 0.33852502703666687
+    },
+    {
+      "start": 22.3,
+      "end": 22.78,
+      "word": " Chelsea",
+      "probability": 0.5650335550308228
+    },
+    {
+      "start": 22.78,
+      "end": 23.54,
+      "word": " doesn't",
+      "probability": 0.9872248470783234
+    },
+    {
+      "start": 23.54,
+      "end": 24.48,
+      "word": " mind",
+      "probability": 0.9738100171089172
+    },
+    {
+      "start": 24.48,
+      "end": 25.18,
+      "word": " Chelsea",
+      "probability": 0.5486041307449341
+    },
+    {
+      "start": 25.18,
+      "end": 25.66,
+      "word": " doesn't",
+      "probability": 0.9939277172088623
+    },
+    {
+      "start": 25.66,
+      "end": 25.66,
+      "word": " mind",
+      "probability": 0.9835192561149597
+    },
+    {
+      "start": 25.66,
+      "end": 25.8,
+      "word": " Chelsea",
+      "probability": 0.40780192613601685
+    },
+    {
+      "start": 25.8,
+      "end": 26.16,
+      "word": " doesn't",
+      "probability": 0.994674801826477
+    },
+    {
+      "start": 26.16,
+      "end": 27.52,
+      "word": " mind",
+      "probability": 0.9840743541717529
+    }
+  ],
+  "model": "small"
+}

@@ -1,0 +1,73 @@
+{
+  "clip": "C:\\Users\\Lenovo\\OneTakeApp\\server\\jobs\\adbe833d-40aa-43a3-a00e-2c3b34389c26\\audio.wav",
+  "workClip": "C:\\Users\\Lenovo\\OneTakeApp\\server\\scripts\\asr_benchmark\\out\\clip_trim_30s.wav",
+  "reference": null,
+  "results": [
+    {
+      "name": "localWhisper:base",
+      "ok": true,
+      "ms": 38166,
+      "provider": "localWhisper",
+      "model": "base",
+      "language": "ar",
+      "segments": 5,
+      "words": 21,
+      "lowConfidence": 0,
+      "textPreview": "سيلا فرقي لا يوفس إضافة بالنسبة للشكل لا يوفس إضافة لل Silva وإتقادية سيلا فرقي لا يوفسل ليلا فرقية سيلا فرقي",
+      "text": "سيلا فرقي لا يوفس إضافة بالنسبة للشكل لا يوفس إضافة لل Silva وإتقادية سيلا فرقي لا يوفسل ليلا فرقية سيلا فرقي",
+      "error": null
+    },
+    {
+      "name": "localWhisper:small",
+      "ok": true,
+      "ms": 122072,
+      "provider": "localWhisper",
+      "model": "small",
+      "language": "ar",
+      "segments": 8,
+      "words": 26,
+      "lowConfidence": 0,
+      "textPreview": "إهي لا 안녕 Chelsea doesn't mind He doesn't worry about crimes Chelsea doesn't mind He doesn't mind Chelsea doesn't mind Chelsea doesn't mind Chelsea doesn't mind",
+      "text": "إهي لا 안녕 Chelsea doesn't mind He doesn't worry about crimes Chelsea doesn't mind He doesn't mind Chelsea doesn't mind Chelsea doesn't mind Chelsea doesn't mind",
+      "error": null
+    },
+    {
+      "name": "localWhisper:tiny(BASELINE_DO_NOT_PUBLISH)",
+      "ok": true,
+      "ms": 16014,
+      "provider": "localWhisper",
+      "model": "tiny",
+      "language": "ro",
+      "segments": 6,
+      "words": 35,
+      "lowConfidence": 0,
+      "textPreview": "Aceste șitam rafich... Lai ofces de Luigi T'ha cateam! Șina Тогдаfare te face dzele vete de我就 at다는a, thră de blai ofces de Luigi T' ник de... ér... Șinaomenai faresa de definitate de Freddie acei e",
+      "text": "Aceste șitam rafich... Lai ofces de Luigi T'ha cateam! Șina Тогдаfare te face dzele vete de我就 at다는a, thră de blai ofces de Luigi T' ник de... ér... Șinaomenai faresa de definitate de Freddie acei e",
+      "error": null
+    },
+    {
+      "name": "openai",
+      "ok": false,
+      "ms": 0,
+      "error": "OPENAI_API_KEY is not set. Cannot use OpenAI ASR provider.",
+      "text": "",
+      "skipped": true
+    },
+    {
+      "name": "elevenlabs",
+      "ok": false,
+      "ms": 0,
+      "error": "ELEVENLABS_API_KEY is not set. Cannot use ElevenLabs Scribe provider.",
+      "text": "",
+      "skipped": true
+    },
+    {
+      "name": "gladia",
+      "ok": false,
+      "ms": 2,
+      "error": "GLADIA_API_KEY is not set. Cannot use Gladia ASR provider.",
+      "text": "",
+      "skipped": true
+    }
+  ]
+}

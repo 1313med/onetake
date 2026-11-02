@@ -1,0 +1,262 @@
+{
+  "language": "ro",
+  "language_probability": 0.3251711428165436,
+  "duration": 30.0,
+  "segments": [
+    {
+      "start": 5.68,
+      "end": 12.1,
+      "text": "Aceste șitam rafich...",
+      "avg_logprob": -4.3515317296407305,
+      "no_speech_prob": 0.1953858882188797
+    },
+    {
+      "start": 12.1,
+      "end": 13.71,
+      "text": "Lai ofces de Luigi T'ha cateam!",
+      "avg_logprob": -4.3515317296407305,
+      "no_speech_prob": 0.1953858882188797
+    },
+    {
+      "start": 17.6,
+      "end": 21.0,
+      "text": "Șina Тогдаfare te face dzele vete de我就 at다는a,",
+      "avg_logprob": -4.3515317296407305,
+      "no_speech_prob": 0.1953858882188797
+    },
+    {
+      "start": 22.64,
+      "end": 26.0,
+      "text": "thră de blai ofces de Luigi T' ник de...",
+      "avg_logprob": -4.3515317296407305,
+      "no_speech_prob": 0.1953858882188797
+    },
+    {
+      "start": 26.0,
+      "end": 26.3,
+      "text": "ér...",
+      "avg_logprob": -4.3515317296407305,
+      "no_speech_prob": 0.1953858882188797
+    },
+    {
+      "start": 26.3,
+      "end": 29.98,
+      "text": "Șinaomenai faresa de definitate de Freddie acei e",
+      "avg_logprob": -4.3515317296407305,
+      "no_speech_prob": 0.1953858882188797
+    }
+  ],
+  "words": [
+    {
+      "start": 5.68,
+      "end": 6.42,
+      "word": " Aceste",
+      "probability": 0.021509523503482342
+    },
+    {
+      "start": 9.78,
+      "end": 11.3,
+      "word": " șitam",
+      "probability": 0.0012993729328627524
+    },
+    {
+      "start": 11.3,
+      "end": 12.1,
+      "word": " rafich...",
+      "probability": 0.010542379852267914
+    },
+    {
+      "start": 12.1,
+      "end": 12.24,
+      "word": " Lai",
+      "probability": 0.23090478964149952
+    },
+    {
+      "start": 12.24,
+      "end": 12.62,
+      "word": " ofces",
+      "probability": 0.07458055391907692
+    },
+    {
+      "start": 12.62,
+      "end": 12.78,
+      "word": " de",
+      "probability": 0.7388139963150024
+    },
+    {
+      "start": 12.78,
+      "end": 12.98,
+      "word": " Luigi",
+      "probability": 0.006198166869580746
+    },
+    {
+      "start": 12.98,
+      "end": 13.32,
+      "word": " T",
+      "probability": 0.08088209480047226
+    },
+    {
+      "start": 13.32,
+      "end": 13.32,
+      "word": "'ha",
+      "probability": 0.15293085481971502
+    },
+    {
+      "start": 13.32,
+      "end": 13.71,
+      "word": " cateam!",
+      "probability": 0.22730959330995879
+    },
+    {
+      "start": 17.6,
+      "end": 18.1,
+      "word": " Șina",
+      "probability": 0.04524973634397611
+    },
+    {
+      "start": 18.1,
+      "end": 18.42,
+      "word": " Тогдаfare",
+      "probability": 0.018014491507282553
+    },
+    {
+      "start": 18.42,
+      "end": 18.98,
+      "word": " te",
+      "probability": 0.000857467413879931
+    },
+    {
+      "start": 18.98,
+      "end": 19.24,
+      "word": " face",
+      "probability": 0.004089361988008022
+    },
+    {
+      "start": 19.24,
+      "end": 19.66,
+      "word": " dzele",
+      "probability": 0.07964045837676774
+    },
+    {
+      "start": 19.66,
+      "end": 19.88,
+      "word": " vete",
+      "probability": 0.0370159805752337
+    },
+    {
+      "start": 19.88,
+      "end": 20.6,
+      "word": " de我就",
+      "probability": 0.013759593859504093
+    },
+    {
+      "start": 20.6,
+      "end": 21.0,
+      "word": " at다는a,",
+      "probability": 0.18108051064579436
+    },
+    {
+      "start": 22.64,
+      "end": 23.04,
+      "word": " thră",
+      "probability": 0.14473601744339248
+    },
+    {
+      "start": 23.04,
+      "end": 23.04,
+      "word": " de",
+      "probability": 0.05995083972811699
+    },
+    {
+      "start": 23.04,
+      "end": 23.98,
+      "word": " blai",
+      "probability": 0.04685995361069217
+    },
+    {
+      "start": 23.98,
+      "end": 24.26,
+      "word": " ofces",
+      "probability": 0.7850877046585083
+    },
+    {
+      "start": 24.26,
+      "end": 24.42,
+      "word": " de",
+      "probability": 0.9470400214195251
+    },
+    {
+      "start": 24.42,
+      "end": 24.64,
+      "word": " Luigi",
+      "probability": 0.939669668674469
+    },
+    {
+      "start": 24.64,
+      "end": 25.04,
+      "word": " T'",
+      "probability": 0.9732292294502258
+    },
+    {
+      "start": 25.04,
+      "end": 25.04,
+      "word": " ник",
+      "probability": 9.673687628719563e-09
+    },
+    {
+      "start": 25.04,
+      "end": 26.0,
+      "word": " de...ér...",
+      "probability": 0.09858682141202735
+    },
+    {
+      "start": 26.0,
+      "end": 26.3,
+      "word": " Șinaomenai",
+      "probability": 0.14372794160590274
+    },
+    {
+      "start": 26.3,
+      "end": 26.52,
+      "word": " faresa",
+      "probability": 0.02643900744927426
+    },
+    {
+      "start": 26.52,
+      "end": 27.86,
+      "word": " de",
+      "probability": 0.11494305729866028
+    },
+    {
+      "start": 27.86,
+      "end": 28.02,
+      "word": " definitate",
+      "probability": 8.422488463111222e-05
+    },
+    {
+      "start": 28.02,
+      "end": 29.18,
+      "word": " de",
+      "probability": 0.08204634487628937
+    },
+    {
+      "start": 29.18,
+      "end": 29.18,
+      "word": " Freddie",
+      "probability": 9.350402478958131e-07
+    },
+    {
+      "start": 29.18,
+      "end": 29.18,
+      "word": " acei",
+      "probability": 0.03902489447500557
+    },
+    {
+      "start": 29.18,
+      "end": 29.98,
+      "word": " e",
+      "probability": 0.0040299007669091225
+    }
+  ],
+  "model": "tiny"
+}

@@ -31,7 +31,33 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+server/.env
+
+# Job outputs / media (large, local-only)
+server/jobs/
+server/uploads/
+server/tmp/
+server/remotion/out/
+server/remotion/node_modules/
+server/node_modules/
+
+# Remotion staged plates / webpack cache
+server/remotion/public/src_*.mp4
+server/remotion/public/src_*.mov
+server/remotion/public/*.mp4
+server/remotion/public/*.mov
+references/before_after/remotion_prove/plate.mp4
+references/before_after/remotion_prove/ugc_after_sample.mp4
+references/**/*.mp4
+references/**/*.mov
+references/**/*.wav
+*.mp4
+*.mov
+*.wav
+!server/assets/**/*.mp3
+!server/assets/**/*.wav
 
 # typescript
 *.tsbuildinfo

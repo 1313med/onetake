@@ -1,22 +1,51 @@
 {
-  "name": "onetakeapp",
+  "name": "onetake",
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
+    "@expo/vector-icons": "^15.1.1",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.1.2",
+    "@react-native-async-storage/async-storage": "^3.1.1",
+    "cors": "^2.8.6",
     "expo": "~58.0.22",
+    "expo-audio": "~58.0.11",
+    "expo-file-system": "~58.0.13",
+    "expo-font": "^58.0.11",
+    "expo-haptics": "^58.0.7",
+    "expo-image-picker": "^58.0.10",
+    "expo-linear-gradient": "^58.0.3",
     "expo-status-bar": "~58.0.4",
+    "expo-video": "~58.0.13",
+    "express": "^5.3.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "multer": "^2.5.0",
     "react": "19.3.0",
-    "react-native": "0.88.1"
+    "react-dom": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-gesture-handler": "^3.4.0",
+    "react-native-reanimated": "^4.7.1",
+    "react-native-safe-area-context": "^5.11.0",
+    "react-native-web": "^0.21.4",
+    "react-native-worklets": "0.13.0",
+    "uuid": "^14.0.3"
   },
   "devDependencies": {
     "@types/react": "~19.3.0",
+    "babel-preset-expo": "^58.0.23",
     "typescript": "~6.0.3"
   },
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "start": "node scripts/start-app.js",
+    "app": "node scripts/start-app.js",
+    "start:tunnel": "expo start --tunnel",
+    "android": "node scripts/start-app.js --android",
+    "ios": "node scripts/start-app.js --ios",
+    "web": "expo start --web",
+    "studio": "node scripts/start-studio.js",
+    "studio:test": "node server/test-e2e.js",
+    "remotion:prove": "node server/remotion/prove.js",
+    "remotion:studio": "npm run studio --prefix server/remotion"
   },
   "private": true
 }
